@@ -1,0 +1,13 @@
+#containerbox {
+	float:left;
+	background: #fff;
+	width: 290px;
+	height: 350px;
+	margin: 20px 0 0 -3px;
+	padding-top: 30px;
+	font-family: helvetica, arial, sans-serif;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border: 1px solid rgba(0,0,0,0.16);
+}

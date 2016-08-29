@@ -1,0 +1,36 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	background: #f8f8f8;
+}
+
+.navbar-custom {
+	background-color: #fff;
+	border-bottom: 1px solid rgba(0,0,0,0.16);
+}
+
+.navbar-custom .navbar-nav li > a:hover {
+	background: #f7f7f7;
+}
+
+.custom-container {
+	background: #fff;
+	margin-top: 80px;
+	margin-left: 25%;
+	margin-right: 25%;
+	border: 1px solid rgba(0,0,0,0.16);
+}
+
+.form-control {
+	margin-bottom: 10px;
+	max-width: 440px;
+}
+
+.form-divider {
+	border-bottom: 3px solid #e7e7e7;
+	float: left;
+}
